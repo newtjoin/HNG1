@@ -31,14 +31,19 @@ This repository contains a POSIX-compliant Bash script for automating the deploy
 
 ## To get started
 
-1.  **Clone the repository or simply download the `deploy.sh` script.**
+1.  **Clone the repository to skip step2 ( or download the script file) `deploy.sh` script.**
 
-2.  **Run the script:**
+2.  **Make the script executable:**
+    ```bash
+    chmod +x deploy.sh
+    ```
+
+3.  **Run the script:**
     ```bash
     ./deploy.sh
     ```
 
-3.  **Follow the interactive prompts:**
+4.  **Follow the interactive prompts:**
 
     The script will ask for the following information:
     - **Git Repository URL**: Copy your Git repository link here.
