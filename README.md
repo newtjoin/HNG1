@@ -29,21 +29,16 @@ This repository contains a POSIX-compliant Bash script for automating the deploy
 - `sudo` privileges for the SSH user.
 - Lastly here, internet access for downloading packages.
 
-## How to Use/To get started
+## To get started
 
 1.  **Clone the repository or simply download the `deploy.sh` script.**
 
-2.  **Make the script executable using this command:**
-    ```bash
-    chmod +x deploy.sh
-    ```
-
-3.  **Run the script:**
+2.  **Run the script:**
     ```bash
     ./deploy.sh
     ```
 
-4.  **Follow the interactive prompts:**
+3.  **Follow the interactive prompts:**
 
     The script will ask for the following information:
     - **Git Repository URL**: Copy your Git repository link here.
