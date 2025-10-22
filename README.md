@@ -31,7 +31,7 @@ This repository contains a POSIX-compliant Bash script for automating the deploy
 
 ## To get started
 
-1.  **Clone the repository to skip step2 ( or download the script file) `deploy.sh` script.**
+1.  **Clone the repository  or download the script file `deploy.sh` script.**
 
 2.  **Make the script executable:**
     ```bash
